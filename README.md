@@ -2,7 +2,7 @@ Currently an MSCS student @ CU Boulder studying Computer Science and a certifica
 
 Despite my former Neuroscience and Business studies, I ended up falling in love with software engineering from my experiences building with my close friends. I'm passionate about the work, but I'm also passionate about building software that makes a difference in the world.
 
-# A little about me
+Some more about me:
 
 Education:
 MS Computer Science @ CU Boulder
