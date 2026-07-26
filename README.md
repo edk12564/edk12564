@@ -2,11 +2,6 @@ Currently an MSCS student @ CU Boulder studying Computer Science and a certifica
 
 Despite my former Neuroscience and Business studies, I ended up falling in love with software engineering from my experiences building with my close friends. I'm passionate about the work, but I'm also passionate about building software that makes a difference in the world.
 
-Some more about me:
-
-Education:
-MS Computer Science @ CU Boulder
-
 Experience:
 Google Summer of Code + OSS Contributor @ Apache Software Foundation
 
