@@ -4,6 +4,5 @@ Despite my former Neuroscience and Business studies, I ended up falling in love 
 
 Experience:
 Google Summer of Code + OSS Contributor @ Apache Software Foundation
-
 Tech I reach for:
 Java · Python · TypeScript · PostgreSQL · Docker · Terraform · AWS · GitHub Actions
